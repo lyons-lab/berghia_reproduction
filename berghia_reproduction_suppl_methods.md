@@ -17,3 +17,10 @@ About 3 weeks after they were laid, a group of roughly 300 early juveniles were 
 | 12+ wpf | ⅙ medium E. diaphana (2) | 1/12 medium E. diaphana |
 
 
+
+# Supplemental Figure
+
+<img width="1200" alt="Figure 1@2x" src="https://user-images.githubusercontent.com/25692895/176504192-c44790d0-7057-45e3-a0ec-bf792f0136ed.png">
+
+### Supplemental Figure 1. Size categories of Berghia stephanieae. 
+A-C. Dorsal view of B. stephanieae at 3 lengths measured from mouth to end of cerata. Measurements for all individuals were made from the anterior-most part of the head to the most posterior cerata as indicated in A. Small juveniles (6 mm) are unable to exchange sperm, and produce unfertilized egg masses after several more weeks of growth. B. Large juveniles (9 mm) function as males, and are able to exchange and store sperm, producing primarily fertilized egg masses after a few weeks of additional growth. C. Adults are mature hermaphrodites (~12-20 mm), able to exchange and store sperm, and produce fertilized egg masses immediately. Scale bar = 5 mm.
