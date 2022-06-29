@@ -5,6 +5,8 @@ Neville F Taraporevala, Maryna P Lesoway, Jessica A Goodheart, and Deirdre C Lyo
 
 Data collection and code written by Neville Taraporevala. Code updated by Jessica Goodheart.
 
+Primary code for statistics and figures can be found in Figures.R
+
 Available on biorxiv March 4, 2022: https://www.biorxiv.org/content/10.1101/2022.03.02.482740v1.
 
 
